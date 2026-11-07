@@ -1,0 +1,8 @@
+.pio/
+.vscode/
+build/
+*.elf
+*.bin
+*.hex
+*.mp4
+*.mov
